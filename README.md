@@ -2,7 +2,7 @@
 A/B Testing is one of the most important aspects in Marketing.
 It is used to find the best method of marketing between two businesses
 
-The dataset we are using here contains two data files about two marketing campaigns - **Control Campaign and Test Campaign **
+The dataset we are using here contains two data files about two marketing campaigns - **Control Campaign and Test Campaign**
 
 # RESULT
 
